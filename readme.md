@@ -1,7 +1,1 @@
-The algorith could be runned seperatly for 6 crypto or all together as a portfolio.
-
-The design and concept or the function is really simple.
-
-Each file checks and update if the requirements to place an order is met, controlled by a seperate loop file that  simples execute the algo on repeat.
-
-This can be compbined with a Scheduler to be completly automated.
+Introducing a high-performance trading algorithm built with Python. This algorithm constantly checks each bar for specific conditions, and places an order if those conditions are met. The algorithm uses the Python Scheduler to loop every 'x' minutes, ensuring that the system is constantly monitoring the market and executing trades at optimal times. With this algorithm, you can automate your trading strategy, minimize manual intervention, and maximize your profits.
