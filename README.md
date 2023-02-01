@@ -1,4 +1,4 @@
-# ALGORITHMIC-BREAKOUT-STRATEGY-FOR-BINANCE
+# Algo-Breakout-m30strategy-using-BINANCE API
 Binance API connection upadte on bar breakout strategy using limit orders
 
 Cancel changes
